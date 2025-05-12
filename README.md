@@ -1,4 +1,4 @@
-# Converso-De_Moedas
+# Converso De Moedas
 Este projeto é uma atividade proposta visando a prática e reforçando os conhecimentos adquiridos em Programação com Java.
 
 ## :hammer: Funcionalidades do projeto
