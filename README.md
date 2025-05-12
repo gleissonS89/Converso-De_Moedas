@@ -10,7 +10,7 @@ Este projeto é uma atividade proposta visando a prática e reforçando os conhe
 
 ## Demonstração do Projeto
 
-![Video Demosntrativo]([https://github.com/gleissonS89/Challenge-Amigo-Secreto/blob/3fad4a9c761968acda1fe8642fc7a30bd3ff3c62/Demonstra%C3%A7ao.gif](https://github.com/gleissonS89/Converso-De_Moedas/blob/main/ConversorDeMoedas%20%E2%80%93%20Principal.java%202025-05-12%2013-53-25.mp4))
+![Video Demosntrativo](https://github.com/gleissonS89/Converso-De_Moedas/blob/main/ConversorDeMoedas%20%E2%80%93%20Principal.java%202025-05-12%2013-53-25.gif)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 * ``Java``
